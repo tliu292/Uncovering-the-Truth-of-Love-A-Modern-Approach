@@ -1,4 +1,4 @@
-# Uncovering-The-Truth-of-Love-A-Modern-Approach
+# Uncovering the Truth of Love: A Modern Approach
 STAT479 Final Project
 
 ## Authors
